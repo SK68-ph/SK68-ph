@@ -6,8 +6,8 @@
 
 <h3> About me: </h3>
 
--  ** 🌱 Interested in software development **
--  ** 🔭 I am currently pursuing a bachelor's degree in information and technology. **
+- 🌱 Interested in software development
+- 🔭 I am currently pursuing a bachelor's degree in information and technology.
 
 
  ### Familiar with:
